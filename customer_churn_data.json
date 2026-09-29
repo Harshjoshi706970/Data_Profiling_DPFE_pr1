@@ -1,0 +1,122 @@
+[
+    {
+        "CustomerID": "CUST_0001",
+        "Age": 42,
+        "Income": 62000,
+        "Purchases": 14,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0002",
+        "Age": 28,
+        "Income": 34000,
+        "Purchases": 3,
+        "Gender": "Male",
+        "Churn": 1
+    },
+    {
+        "CustomerID": "CUST_0003",
+        "Age": null,
+        "Income": 48000,
+        "Purchases": 8,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0004",
+        "Age": 56,
+        "Income": 75000,
+        "Purchases": null,
+        "Gender": "Male",
+        "Churn": 1
+    },
+    {
+        "CustomerID": "CUST_0005",
+        "Age": 33,
+        "Income": 91000,
+        "Purchases": 19,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0006",
+        "Age": 61,
+        "Income": 29000,
+        "Purchases": 2,
+        "Gender": "Male",
+        "Churn": 1
+    },
+    {
+        "CustomerID": "CUST_0007",
+        "Age": 24,
+        "Income": 54000,
+        "Purchases": 11,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0008",
+        "Age": 49,
+        "Income": 41000,
+        "Purchases": null,
+        "Gender": "Male",
+        "Churn": 1
+    },
+    {
+        "CustomerID": "CUST_0009",
+        "Age": null,
+        "Income": 83000,
+        "Purchases": 16,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0010",
+        "Age": 38,
+        "Income": 39000,
+        "Purchases": 5,
+        "Gender": "Male",
+        "Churn": 1
+    },
+    {
+        "CustomerID": "CUST_0011",
+        "Age": 52,
+        "Income": 88000,
+        "Purchases": 18,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0012",
+        "Age": 29,
+        "Income": 36000,
+        "Purchases": 4,
+        "Gender": "Male",
+        "Churn": 1
+    },
+    {
+        "CustomerID": "CUST_0013",
+        "Age": 45,
+        "Income": 67000,
+        "Purchases": 13,
+        "Gender": "Female",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0014",
+        "Age": 31,
+        "Income": 45000,
+        "Purchases": 6,
+        "Gender": "Male",
+        "Churn": 0
+    },
+    {
+        "CustomerID": "CUST_0015",
+        "Age": 67,
+        "Income": 26000,
+        "Purchases": 1,
+        "Gender": "Female",
+        "Churn": 1
+    }
+]
